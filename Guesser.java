@@ -11,6 +11,8 @@ public class Guesser{
   private int low;
   private int high;
 
+  
+
   /*
    * Task 1. Write code here for a constructor
    * which takes two int arguments and saves
@@ -23,7 +25,11 @@ public class Guesser{
    */
   
   // Write the constructor below this line.
-
+  
+  public Guesser(int low, int high) {
+    this.low = low;
+    this.high = high;
+  }
 
   /*
    * Task 2. Complete the start() method, so that
