@@ -36,9 +36,9 @@ public class Guesser{
    * in the method body, you call first the
    * rules() method, next the doGuesses() method.
    */
-  public void start(){
-    // call the rules method here
-    // call the doGuesses() method here
+  public void start() {
+    start();
+    doGuesses();
   }
 
   private void rules(){
