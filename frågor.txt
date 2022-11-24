@@ -1,0 +1,17 @@
+fårga 1
+add används för att addera en eller flera filer till index/stageing-area.
+commit används för att commita filerna till ens local repository.
+
+fråga 2
+pull är ett komando för att hämta hem ett remote repository till sin working-direcotory.
+push är ett komando för att skicka sit local-repository till remote-repository.
+
+fråga 3
+log används för att få fram en log över commits.
+status används för att se vad som ligger eller inte ligger i index/staging-area.
+
+fråga 4
+commits bör formuleras i presens. ex: "adding a main method"
+
+
+
